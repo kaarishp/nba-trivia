@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "nbatrivia",
+    "slug": "nbatrivia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
