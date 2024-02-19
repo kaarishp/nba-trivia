@@ -1,5 +1,5 @@
 # NBA Trivia App
-
+By:Faiz M and King Kaarish
 ## Overview
 
 The NBA Trivia app is a cross-platform mobile application developed using React Native. Designed for NBA fans around the world, this app offers a fun and interactive way to test your basketball knowledge. Covering a wide range of topics from historic milestones and legendary players to recent seasons and drafts, the NBA Trivia app is perfect for anyone looking to prove their expertise or learn more about the game.
